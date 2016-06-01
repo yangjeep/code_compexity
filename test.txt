@@ -1,0 +1,3 @@
+4	4	16	254	28	./src/lsd_debug.c(255): lsd_dbg_init_evm
+5	5	17	70	33	./src/lsd_update_list_mgr.c(71): lsd_ul_mgr_rw_add
+26	37	202	194	351	./src/lsd_update_list_mgr.c(195): lsd_ul_mgr_pkg_upd
